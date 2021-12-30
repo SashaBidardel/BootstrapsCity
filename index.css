@@ -1,0 +1,139 @@
+.nave{
+    display: flex ;
+    justify-content: end;
+    width: 850px ;
+    padding-bottom: 0%!important;
+    
+    
+    
+}
+.banner{
+    display:flex ;
+    align-items: center;
+    justify-content: center ;
+     height: 260px ;
+     margin-top: 0px!important;
+    color: rgb(2, 22, 1) ;
+    background-color:rgb(219, 212, 221) ;
+    font-size:220%;
+    padding-top: 0%;
+}
+.bloque{
+    
+    background-color: darkgrey;
+    margin: 1%;
+    height: 67%;
+    width: 20%;
+}
+.barra{
+    
+    
+    height:2em;
+    background-color: rgb(189, 185, 192);
+    border-radius: 30%;
+    width: 40%;
+}
+.boton{
+    display: flex;
+    justify-content: flex-end;
+}
+.lateral{
+    background-color:  rgb(189, 185, 192);
+    height: 6em;
+    width: 94%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-top: 9%;
+    margin-bottom: 9%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.city{
+    margin-right: 2%;
+   
+}
+.ranking{
+    margin-left: 4%;
+    margin-top: 3%;
+    border :1px solid black;
+    width: 30%;
+    margin-bottom: 6%;
+    
+}
+.carta{
+    height:7em;
+    background-color: rgb(189, 185, 192);
+    
+    
+    
+}
+.cardSection{
+    
+
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-bottom: 4%;
+    margin-top: 4%;
+}
+.cardAlign{
+   
+    display: flex;
+   flex-wrap: wrap;
+}
+.centerAlign{
+    display: flex;
+    flex-direction: row;
+   
+}
+.popular{
+    display: flex;
+    
+    justify-content: center;
+    font-size: x-large;
+    
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: #f54e4e;
+   
+}
+.text{
+    width: 90%;
+
+}
+.alingCircle{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.circulos{
+    display: flex;
+    padding-bottom: 0%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-right: 2%;
+}
+
+.icons{
+    display: flex;
+    justify-content: flex-end;
+    align-content:flex-start;
+    
+}
+futer{
+    display: flex;
+    align-items: center;
+}
+.rec{
+    width: 2em; 
+     height: 2em; 
+   
+  
+    background-color: rgb(189, 185, 192);
+}
